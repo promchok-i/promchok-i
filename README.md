@@ -7,7 +7,7 @@
 
 > - 🌱 I’m currently learning concepts, Programming languages, Technology stacks and more, especially about Data Engineering.
 > 
-> - ⚡ Fun fact : Big Data is new world for me, but I'm ready to jump in !!! 😇
+> - ⚡ Fun fact : Data Science with Big Data is A new world for me, but I'm ready to jump in !!! 😇
 <!--
 **Promchok-i/promchok-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
