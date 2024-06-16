@@ -3,19 +3,19 @@
 
 
 
-- 🔭 I’m currently working as a Back-End Developer.
+- 🔭 I’m currently working as a Backend Developer.
 - 🌱 I’m currently learning concepts, Programming languages, Technology stacks and more, especially about
   
   > - **Software Development** :earth_asia:
-  >    - Back-End
-  >    - Front-End
+  >    - Backend
+  >    - Frontend
   > - **Infrastructure** :desktop_computer:
-  >    - CI/CD
-  >    - Container, Kubernetes
+  >    - Docker, Kubernetes
+  >    - Continuous Integration and Continuous Delivery/Deployment
   >    - Cloud Technology
   > - **Data Science** :chart_with_upwards_trend:
   >    - Data Engineering
-  >    - AI / ML
+  >    - Artificial Intelligence / Machine Learning
 
 
 
